@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  map.cpp
+c:\users\андрей\source\repos\consoleapplication1\consoleapplication1\map.cpp(43): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "stdafx.h"" в источник.
+  ConsoleApplication1.cpp
+  car.cpp
+c:\users\андрей\source\repos\consoleapplication1\consoleapplication1\car.cpp(43): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "stdafx.h"" в источник.
+  Создание кода...
