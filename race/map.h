@@ -1,6 +1,8 @@
 ##ifndef MAP_H
 #define MAP_H
 
+#include "car.h"
+
 
 
 namespace race
