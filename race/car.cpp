@@ -1,4 +1,5 @@
 #include "car.h"
+#include "map.h"
 namespace race
 {
 
