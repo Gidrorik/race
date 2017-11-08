@@ -16,5 +16,4 @@ public:
 private:
 	GameObjPosition m_obstaclePosition;
 };
-#endif OBSTACLE_Hce
-
+#endif OBSTACLE_H
