@@ -1,7 +1,6 @@
 #ifndef CONTROL_H
 #define CONTROL_H
 
-
 #include "car.h"
 #include "road.h"
 
